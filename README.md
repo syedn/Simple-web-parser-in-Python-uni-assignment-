@@ -1,2 +1,1 @@
-# assignment3Intro
-intro to web assignment 3
+# Simple web parser in Python
